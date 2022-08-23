@@ -9,4 +9,7 @@
 
 ## Trabajos realizados
 -Proyectos de desarrollo de infraestructura para distribución de agua potable  
--Presupustos y actualización de tarifas
+    -Planificación anual
+    -Contratación de topografía y diseño
+    -Contratación de ejecución    
+-Presupuestos y actualización de tarifas 
