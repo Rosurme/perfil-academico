@@ -2,7 +2,7 @@
 **Nombre**: Rosario Ureña Mena  
 **Profesión**: Economista Agrícola  
 ![](Río.jpg)
-<img sc="Río.jpg" alt="Río" style="width:100px;height:100px;">
+<img src="Río.jpg" alt="Río" style="width:100px;height:100px;">
 
 ## Áreas de interés
 1. Acueductos comunales.  
