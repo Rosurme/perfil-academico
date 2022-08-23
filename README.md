@@ -1,7 +1,7 @@
 # Perfil académico
 **Nombre**: Rosario Ureña Mena  
 **Profesión**: Economista Agrícola  
-
+![](Río)
 ## Áreas de interés
 1. Acueductos comunales.  
 2. Gestión de Recursos Naturales
