@@ -1,4 +1,4 @@
-# Perfil académico#
+# Perfil académico
 **Nombre**: Rosario Ureña Mena  
 **Profesión**: Economista Agrícola  
 
