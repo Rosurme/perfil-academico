@@ -16,3 +16,5 @@
 
 
 ![image](https://user-images.githubusercontent.com/111821645/186048957-5e429a26-4500-4b89-82db-f76f980ebf3d.png)
+
+<strong>Texto en negrita</strong>
