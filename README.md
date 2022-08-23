@@ -8,7 +8,7 @@
 3. Gestión de proyectos  
 
 ## Trabajos realizados
-- Proyectos de desarrollo de infraestructura para distribución de agua potable  
+- [Proyectos de desarrollo de infraestructura para distribución de agua potable](https://dota.go.cr/munet/?page_id=510)  
     - Planificación anual
     - Contratación de topografía y diseño
     - Contratación de ejecución    
